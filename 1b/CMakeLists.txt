@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(jello VERSION 1.0)
+project(coollib_test VERSION 1.0)
 
 set(CMAKE_CXX_STANDARD 20)
 

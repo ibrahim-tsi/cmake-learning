@@ -1,10 +1,6 @@
-#ifndef COOLLIB_H
-#define COOLLIB_H
-
+#include "inc/coollib.hpp"
 #include <iostream>
 
 void cool() {
   std::cout << "this is quite cool" << std::endl;
 }
-
-#endif // COOLLIB_H
